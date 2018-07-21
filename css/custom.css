@@ -1,0 +1,14 @@
+/* Add here all your CSS customizations */
+.resMenu{
+display: none;
+}
+@media (max-width: 480px) {
+	.resMenu{
+	display: block;
+	font-size: 13px;
+	font-style: normal;
+	text-transform: uppercase;
+    font-weight: 700;
+    color: #344257!important;
+	}
+}
